@@ -10,6 +10,8 @@ public class OOP1 {
         Student kunal = new Student();
         System.out.println(kunal.test);
 
+        kunal.greeting();
+
     }
 }
 
@@ -19,6 +21,10 @@ class Student {
     String name;
     float marks;
     char test;
+
+    void greeting () {
+        System.out.println("My name is " + this.name);
+    }
 
     Student () {
         this.roll_no = 37;
