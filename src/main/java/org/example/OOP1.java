@@ -26,6 +26,15 @@ public class OOP1 {
 //
 //        kunal.greeting();
 
+        final A kyalo = new A("Kevin Kyalo");
+        kyalo.name = "other name";
+
+        // when a non-primitive type is final, it cannot be reassigned
+//        kyalo = new A("other name");
+        while (true) {
+            A obj = new A("Cate Mulwa");
+            obj = new A("other name");
+        }
     }
 }
 
@@ -62,5 +71,20 @@ class Student {
         this.roll_no = roll_no;
         this.name = name;
         this.marks = marks;
+    }
+}
+
+class A {
+    final int num = 10;
+    String name;
+
+    // public constructor for name
+    public A(String name) {
+        this.name = name;
+    }
+
+    @Override
+    protected void finalize() throws Throwable {
+        System.out.println("Öbject is destroyed: " + this.name);
     }
 }
