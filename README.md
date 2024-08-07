@@ -14,7 +14,7 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 ## Learning Resources
 
 * Kunal Kushwaha's YouTube course on OOP
-* [https://youtu.be/BSVKUk58K6U?si=5YZC0gKzbLs76Yap] (optional)
+* [Watch the video](https://youtu.be/BSVKUk58K6U?si=5YZC0gKzbLs76Yap)
 
 
 ## Getting Started
