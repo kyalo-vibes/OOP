@@ -11,6 +11,13 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 * **Constructors**: Special methods for initializing objects
 * **Keywords**: Understanding the role of keywords like `this`, `new`, and more
 
+### OOP 2: Packages, Static, Singleton Class, In-built Methods
+
+* **Packages**: Grouping related classes and modules together
+* **Static**: Methods and variables that belong to the class itself, not to instances
+* **Singleton Class**: Ensuring that only one instance of a class is created
+* **In-built Methods**: Built-in methods available in Python for working with objects
+
 ## Learning Resources
 
 * Kunal Kushwaha's YouTube course on OOP
