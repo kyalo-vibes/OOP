@@ -25,6 +25,13 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 * **Encapsulation**: Hiding the implementation details of an object from the outside world
 * **Abstraction**: Focusing on essential features and hiding non-essential details
 
+**OOP 4: Access Control, In-built Packages, Object Class**
+===========================================================
+
+*   **Access Control**: Restrict access to methods and properties using `public`, `private`, and `protected` modifiers.
+*   **In-built Packages**: Pre-defined packages providing classes and methods for specific tasks.
+*   **Object Class**: Root class of all classes, providing inherited methods like `toString()`, `equals()`, and `hashCode()`.
+
 ## Learning Resources
 
 * Kunal Kushwaha's YouTube course on OOP
