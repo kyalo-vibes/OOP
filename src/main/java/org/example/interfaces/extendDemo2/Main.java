@@ -10,4 +10,8 @@ public class Main implements A, B {
     public void fun() {
 
     }
+
+    public static void main(String[] args) {
+        A.greeting();
+    }
 }
