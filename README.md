@@ -25,12 +25,20 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 * **Encapsulation**: Hiding the implementation details of an object from the outside world
 * **Abstraction**: Focusing on essential features and hiding non-essential details
 
-**OOP 4: Access Control, In-built Packages, Object Class**
-===========================================================
+### OOP 4: Access Control, In-built Packages, Object Class
+
 
 *   **Access Control**: Restrict access to methods and properties using `public`, `private`, and `protected` modifiers.
 *   **In-built Packages**: Pre-defined packages providing classes and methods for specific tasks.
 *   **Object Class**: Root class of all classes, providing inherited methods like `toString()`, `equals()`, and `hashCode()`.
+
+### OOP 5 | Abstract Classes, Interfaces, Annotations
+
+*   **Abstract Classes**: Define a blueprint for other classes to follow, providing a way to inherit behavior and state.
+*   **Interfaces**: Define a contract that must be implemented by any class that implements it, specifying a set of methods that must be provided.
+*   **Annotations**: Add metadata to code, providing additional information about its behavior and purpose, and can be processed at compile-time or runtime.
+
+These concepts work together to enable more robust, maintainable, and scalable code, allowing for better organization, reuse, and extension of code.
 
 ## Learning Resources
 
