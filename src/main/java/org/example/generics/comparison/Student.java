@@ -9,6 +9,12 @@ public class Student implements Comparable<Student> {
         this.marks = marks;
     }
 
+    //Override toString method
+    @Override
+    public String toString() {
+        return "marks=" + marks;
+    }
+
     @Override
     public int compareTo(Student o) {
         int diff = (int) (this.marks - o.marks);
