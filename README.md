@@ -38,6 +38,14 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 *   **Interfaces**: Define a contract that must be implemented by any class that implements it, specifying a set of methods that must be provided.
 *   **Annotations**: Add metadata to code, providing additional information about its behavior and purpose, and can be processed at compile-time or runtime.
 
+### OOP 6 | Generics, Custom ArrayList, Lambda Expressions, Exception Handling, Object Cloning
+
+*   **Generics**: Enable type-safe collections and reusable code, allowing for compile-time type checking and preventing runtime type errors.
+*   **Custom ArrayList**: Implement a custom ArrayList class, providing a dynamic array-based data structure for storing and manipulating objects.
+*   **Lambda Expressions**: Simplify code with concise, anonymous functions, enabling functional programming and improving code readability.
+*   **Exception Handling**: Handle runtime errors and exceptions, providing a robust and fault-tolerant way to manage errors and prevent program crashes.
+*   **Object Cloning**: Create copies of objects, enabling the creation of independent instances with identical state, and supporting deep copying and defensive copying techniques.
+
 These concepts work together to enable more robust, maintainable, and scalable code, allowing for better organization, reuse, and extension of code.
 
 ## Learning Resources
