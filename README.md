@@ -48,6 +48,12 @@ This project covers the basics of Object-Oriented Programming (OOP) concepts, fo
 
 These concepts work together to enable more robust, maintainable, and scalable code, allowing for better organization, reuse, and extension of code.
 
+### OOP 7 | Collections Framework, Vector Class, Enums in Java
+
+*   **Collections Framework**: A framework of interfaces implemented by different data structures to provide similar implementation for common methods for add, size and delete.
+*   **Vector Class**: A data structure that implements the List interface similar to ArrayList with functionality for thread-safe programs
+*   **Enums**: A data structure with a fixed number of objects for use cases such as calendar(Week, Month)
+
 ## Learning Resources
 
 * Kunal Kushwaha's YouTube course on OOP
